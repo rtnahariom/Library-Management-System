@@ -21,7 +21,8 @@ WHERE return_date IS NULL AND due_date < CURDATE();
 ```
 
 ## Database Structure
-![ER Diagram](https://github.com/rtnahariom/Library-Management-System/blob/main/Documentation/ER_Diagram.png?raw=true)[ER Diagram](Documentation/ER_Diagram.png)
+![ER Diagram](https://github.com/rtnahariom/Library-Management-System/blob/main/Documentation/ER_Diagram.png?raw=true)
+
 *Figure 1: Entity-Relationship Diagram for the Library System*
 
 ## Setup Guide
