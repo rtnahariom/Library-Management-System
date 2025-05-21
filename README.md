@@ -21,7 +21,7 @@ WHERE return_date IS NULL AND due_date < CURDATE();
 ```
 
 ## Database Structure
-![ER Diagram](Documentation/ER_Diagram.png)
+![ER Diagram](![ER Diagram](Documentation/ER_Diagram.png))
 
 ## Setup Guide
 1. Install [MySQL](https://dev.mysql.com/downloads/)
